@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Curiosidades</string>
+    <string name="que_tal">¿Que tal?</string>
+    <string name="hello_world">Hola mundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="sabias_que">¿Sabias que?</string>
+    <string name="p_curiosidad">La curiosidad mato al gato</string>
+    <string name="titulo_boton">NUeva curiosidad</string>
+</resources>
