@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Curiosidades</string>
+    <string name="que_tal">¿Que tal?</string>
+    <string name="hello_world">Hola mundo</string>
+    <string name="action_settings">Settings</string>
+    <string name="sabias_que">¿Sabias que? ESPAÑOLO EDITION</string>
+    <string name="p_curiosidad">La curiosidad mato al gato</string>
+    <string name="p2_curiosidad">El vuelo mas largo que ha hecho una gallina es de 13 segundos</string>
+    <string name="p3_curiosidad">La silla electrica fue inventada por un dentista.</string>
+    <string name="p4_curiosidad">El corazon del erizo late un promedio de 300 veces por minuto.</string>
+    <string name="p5_curiosidad">Los camellos tienen tres párpados para protejerse de las tormentas de arena.</string>
+
+    <string name="titulo_boton">Nueva curiosidad</string>
+</resources>

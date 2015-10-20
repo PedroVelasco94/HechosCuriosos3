@@ -1,9 +1,11 @@
 <resources>
-    <string name="app_name">Curiosidades</string>
-    <string name="que_tal">¿Que tal?</string>
-    <string name="hello_world">Hola mundo</string>
+    <string name="app_name">Curiosity</string>
+    <string name="sabias_que">Did you know?</string>
     <string name="action_settings">Settings</string>
-    <string name="sabias_que">¿Sabias que?</string>
-    <string name="p_curiosidad">La curiosidad mato al gato</string>
-    <string name="titulo_boton">NUeva curiosidad</string>
+    <string name="p_curiosidad">Ostriches can run faster than horses, and the male ostriches can roar like lions.</string>
+    <string name="p2_curiosidad">Kangaroos use their tails for balance, so if you lift a kangaroo’s tail off the ground, it can’t hop.</string>
+    <string name="p3_curiosidad">Tigers not only have stripes on their fur, they also have them on their skin. No two tigers ever have the same stripes.</string>
+    <string name="p4_curiosidad">Fleas can jump up to 200 times their height. This is equivalent to a man jumping the Empire State Building in New York.</string>
+    <string name="p5_curiosidad">A cat has 32 muscles in each ear. All the better for them to eavesdrop on your conversations and plot your demise.</string>
+    <string name="titulo_boton">New fact</string>
 </resources>

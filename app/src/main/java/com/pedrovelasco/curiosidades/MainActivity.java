@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         final TextView factLabel = (TextView) findViewById(R.id.textView);
         Button showFactButton = (Button) findViewById(R.id.boton);
 
+
+        //BOTON
         showFactButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -33,11 +35,11 @@ public class MainActivity extends AppCompatActivity {
 
                 String[] s_array = new String[5];
 
-                s_array[0] = "La curiosidad mato al gato";
-                s_array[1] = "El vuelo mas largo que ha hecho una gallina es de 13 segundos";
-                s_array[2] = "La silla electrica fue inventada por un dentista.";
-                s_array[3] = "El corazon del erizo late un promedio de 300 veces por minuto. ";
-                s_array[4] = "Los camellos tienen tres párpados para protejerse de las tormentas de arena.";
+                s_array[0] = getString(R.string.p_curiosidad);
+                s_array[1] = getString(R.string.p2_curiosidad);
+                s_array[2] = getString(R.string.p3_curiosidad);
+                s_array[3] = getString(R.string.p4_curiosidad);
+                s_array[4] = getString(R.string.p5_curiosidad);
 
 
 
